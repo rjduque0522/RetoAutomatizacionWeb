@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="simulation of Financial Canon" skipped="0" tests="1" time="28.75" timestamp="2022-04-08 10:23:34"><testcase name="Verify the operation of the simulator when calculating and presenting by console the values ​​displayed in the &quot;Simulation Result&quot; table"><failure message="Expected enabled element was not enabled" type="net.thucydides.core.webdriver.exceptions.ElementShouldBeEnabledException">Expected enabled element was not enabled</failure><system-err>Expected enabled element was not enabled&#13;
+co.com.choucair.certification.proyectoweb.tasks.BancolombiaTask.performAs(BancolombiaTask.java:30)&#13;
+co.com.choucair.certification.proyectoweb.stepdefinitions.ChoucairAcademyStepDefintions.enterTheDataRequiredByTheSimulator(ChoucairAcademyStepDefintions.java:41)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+</system-err></testcase></testsuite>
